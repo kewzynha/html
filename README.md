@@ -2,7 +2,7 @@
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Site Desenvolvido em HTML</title>
+
 </head>
 
 <body>
@@ -10,12 +10,9 @@
   <h2>Introdução às Tecnologias Web</h2>
 
   <div>
-    <button>Sistemas de Informação</button>
+    <button>Sistemas de Informação - </button>
     <button>Instituto Federal de Alagoas</button>
   </div>
 
-  <footer style="text-align: center; color: #888;">
-    developed by ana
-  </footer>
 </body>
 </html>
